@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Tara Chand
 -   presently I am doing post graduation at IIT Guwahati in Robotics & Artificial Intelliegence
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning python and robotics
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Open to work
 - 📫 How to reach me "tarac.1998es@gmail.com"
 
 <!---
