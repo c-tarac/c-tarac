@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Tara Chand
--   presently I am doing post graduation at IIT Guwahati in Robotics & Artificial Intelliegence
-- 👀 I’m interested in AI
+-  Presently, I'm working in Axtria Pvt. Ltd., Noida
+-  I have done M.Tech at IIT Guwahati in Robotics & Artificial Intelliegence
+- 👀 Data Science enthusiastic
 - 🌱 Open to work
 - 📫 How to reach me "tarac.1998es@gmail.com"
 
